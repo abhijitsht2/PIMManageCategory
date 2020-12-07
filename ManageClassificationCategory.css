@@ -1,0 +1,284 @@
+.manageClassCategory {
+  width: 298px;
+  height: 24px;
+  margin: 25px 1104.6px 22px 37.4px;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #32363a;
+  float: left;
+}
+.manageClassCategoryBackground {
+  position: absolute;
+  width: 100%;
+  height: 40em;
+  background-color: #ffffff;
+}
+.addClassCategoryDiv {
+  float: right;
+  width: 100px;
+  margin-top: -52px;
+}
+
+.classificationDetails {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -92px;
+  margin-left: -100px;
+}
+
+.addClassCategory {
+  width: 36px;
+  height: 36px;
+  padding: 10px 11px;
+  border-radius: 4px;
+  border: solid 1px #8241ff;
+  background-color: #8241ff;
+  font-family: SAP-icons;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.06;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: absolute;
+}
+
+.addClassRight {
+  margin-top: -75px;
+  margin-right: 29px;
+}
+
+.classificationStandard {
+  width: 309px;
+  height: 24px;
+  margin: 19.4px 564px 0 -90px;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #75777a;
+}
+
+.btnClassCategory {
+  width: 215px;
+  height: 36px;
+  margin: 19.4px 564px 0 -50px;
+  padding: 10px 10px 9px;
+  border-radius: 4px;
+  background-color: #ebf7ff;
+}
+.labelClass {
+  width: 339px;
+  height: 16px;
+  margin: 0 0 6px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: left;
+  color: #6a6d70;
+}
+.InputFieldClass {
+  width: 300px;
+  height: 36px;
+  margin: 6px 0 14px;
+  padding: 10px;
+  border-radius: 2px;
+  border: solid 1px #89919a;
+  background-color: #ffffff;
+}
+
+.button-10-12Confirm {
+  width: 77px;
+  height: 36px;
+  margin: 0px 8.5px 0 0;
+  padding: 9px 15.5px 10px 13.5px;
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: #8241ff;
+  border: 1px solid #8241ff;
+  outline: none;
+}
+.button-10-12Cancel {
+  width: 63px;
+  height: 36px;
+  margin: 0 0 0px 8.5px;
+  padding: 10px 10.5px 9px 8.5px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+}
+
+#toast-container > .customer-info {
+  width: 478px;
+  height: 81px;
+  color: #32363a;
+  text-align: center;
+  margin: 63px 481px 0;
+  padding: 31px 43px 30px 44px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
+  background-color: #f1fdf6;
+}
+
+.RectangleNew {
+  width: 1440px;
+  height: 64px;
+  margin: 71px 0 9px;
+  padding: 14px 1042px 14px 37px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #f8f8f8;
+}
+
+.newClassInputField {
+  width: 220px;
+  height: 36px;
+  margin: 0;
+  padding: 0 0 0 10px;
+  border-radius: 2px;
+  border: solid 1px #89919a;
+  background-color: #ffffff;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #32363a;
+}
+
+.addCategoryBtn {
+  width: 130px;
+  height: 36px;
+  margin: 0px 0 9px 14px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #32363a;
+  position: absolute;
+  border: none;
+  outline: none;
+  background-color: #f8f8f8;
+}
+
+.button-Cat-Confirm {
+  width: 77px;
+  height: 36px;
+  margin: 0 8.5px 0 0;
+  padding: 10px 15.5px 9px 13.5px;
+  border-radius: 4px;
+  background-color: #8241ff;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.categoryItemName {
+  cursor: pointer;
+  -webkit-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none;
+}
+
+button:disabled,
+button[disabled] {
+  background-color: #e4d6ff;
+}
+
+.CategoryNames {
+  width: 316px;
+  height: 110px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: left;
+  color: #32363a;
+}
+
+.action-list {
+  margin-left: auto;
+  display: inline-block;
+}
+.action-list i {
+  margin-left: 15px;
+}
+
+.catStyle {
+  padding: 16px;
+  padding-left: 78px;
+  background-color: #ffffff;
+  cursor: pointer;
+  border-radius: 100px;
+  height: 36px;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #f3f3f4;
+}
+
+.catStyle:hover {
+  background-color: #ebf5fe;
+}
+
+.CatalogMapping {
+  width: 120px;
+  height: 36px;
+  margin: 0 60px 0 0;
+  /* padding: 8px 67px 12px 9px; */
+  border-radius: 4px;
+}
+.ViewDetails {
+  width: 120px;
+  height: 36px;
+  margin: 0 30px 0 0;
+  /* padding: 8px 67px 12px 9px; */
+  border-radius: 4px;
+}
+
+.nestedChildCat {
+  display: none;
+}
+
+.childActive {
+  display: block;
+}
+.childCat {
+  margin-left: 74px;
+  padding: 5px;
+}
+
+.AttributesAddChild {
+  width: 120px;
+  height: 36px;
+  margin: 0 18px 0 0;
+  /* padding: 8px 67px 12px 9px; */
+  border-radius: 4px;
+}
